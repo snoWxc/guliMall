@@ -2,7 +2,7 @@ spring:
   datasource:
     username: root
     password: wxc1593570
-    url: jdbc:mysql://localhost:3306/gulimall_pms
+    url: jdbc:mysql://localhost:3306/gulimall_wms
     driver-class-name: com.mysql.cj.jdbc.Driver
 
 mybatis-plus:
@@ -11,4 +11,4 @@ mybatis-plus:
     db-config:
       id-type: auto
 server:
-  port: 10011
+  port: 11000
