@@ -4,3 +4,23 @@
 
 2023-06-25 11:01:15,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 169.254.91.20:8080_true,
 
+2023-06-25 11:01:38,457 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.91.20:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-25 11:01:38,457 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 
+
+2023-06-25 11:01:52,020 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.91.20:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-25 11:01:52,021 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 169.254.91.20:88_true,
+
+2023-06-25 11:01:52,023 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 169.254.91.20:88_true,
+
+2023-06-25 11:06:20,937 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [169.254.91.20:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-25 11:06:20,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 
+
+2023-06-25 11:06:34,636 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [169.254.91.20:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-06-25 11:06:34,636 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 169.254.91.20:88_true,
+
+2023-06-25 11:06:34,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 169.254.91.20:88_true,
+

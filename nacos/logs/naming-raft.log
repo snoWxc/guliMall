@@ -14,3 +14,33 @@
 
 2023-06-25 10:51:06,975 INFO add listener: com.alibaba.nacos.naming.domains.meta.
 
+2023-06-25 10:51:11,381 WARN start to close old raft protocol!!!
+
+2023-06-25 10:51:11,381 WARN stop old raft protocol task for notifier
+
+2023-06-25 10:51:11,381 WARN stop old raft protocol task for master task
+
+2023-06-25 10:51:11,381 WARN stop old raft protocol task for heartbeat task
+
+2023-06-25 10:51:11,381 WARN clean old cache datum for old raft
+
+2023-06-25 10:51:11,381 WARN start to close old raft protocol!!!
+
+2023-06-25 10:51:11,381 WARN stop old raft protocol task for notifier
+
+2023-06-25 10:51:11,381 WARN stop old raft protocol task for master task
+
+2023-06-25 10:51:11,381 WARN stop old raft protocol task for heartbeat task
+
+2023-06-25 10:51:11,381 WARN clean old cache datum for old raft
+
+2023-06-25 10:51:11,381 WARN start to move old raft protocol metadata
+
+2023-06-25 10:51:11,383 WARN start to move old raft protocol metadata
+
+2023-06-25 10:51:11,384 INFO raft peers changed: [Member{ip='169.254.91.20', port=8848, state=UP, extendInfo={lastRefreshTime=1687661471383, raftPort=7848, version=1.4.3}}]
+
+2023-06-25 11:01:15,003 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
+
+2023-06-25 11:01:15,003 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
+

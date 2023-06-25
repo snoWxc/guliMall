@@ -70,3 +70,11 @@
 
 2023-06-25 10:51:11,440 INFO Completed initialization in 9 ms
 
+2023-06-25 11:01:07,040 INFO [capacityManagement] start correct usage
+
+2023-06-25 11:01:07,056 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-06-25 11:01:07,591 WARN clearConfigHistory start
+
+2023-06-25 11:01:07,594 WARN clearConfigHistory, getBeforeStamp:2023-05-26 11:01:07.0, totalCount:2, pageSize:1000, removeTime:1
+

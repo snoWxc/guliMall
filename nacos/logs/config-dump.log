@@ -12,3 +12,5 @@
 
 2023-06-25 10:51:23,878 INFO [dump-task] add task. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, taskKey=gulimall-coupon.properties+DEFAULT_GROUP++false+null
 
+2023-06-25 10:54:48,497 INFO [dump-task] add task. groupKey=gulimall-gateway.yml+DEFAULT_GROUP+4eebb117-7623-4c55-895c-ee86e894cdd8, taskKey=gulimall-gateway.yml+DEFAULT_GROUP+4eebb117-7623-4c55-895c-ee86e894cdd8+false+null
+
