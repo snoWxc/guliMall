@@ -1,7 +1,3 @@
-2023-05-20 15:18:50,739|169.254.91.20|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-05-20 15:18:50,767|169.254.91.20|borrowservice.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-05-20 15:19:24,053|169.254.91.20|userservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-05-20 15:19:24,070|169.254.91.20|userservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-05-20 15:19:24,102|169.254.91.20|userservice-dev.yml|DEFAULT_GROUP|null|unknown|1683968980471|pull|ok|598183631|127.0.0.1
-2023-05-20 15:19:30,884|169.254.91.20|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-05-20 15:19:30,900|169.254.91.20|borrowservice.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-06-25 10:51:23,810|169.254.91.20|gulimall-coupon.properties|DEFAULT_GROUP|null|null|1687661483810|169.254.91.20|persist|remove|-1|null
+2023-06-25 10:51:23,892|169.254.91.20|gulimall-coupon.properties|DEFAULT_GROUP|null|null|1687661483810|169.254.91.20|notify|ok|80|169.254.91.20:8848
+2023-06-25 10:51:23,958|169.254.91.20|gulimall-coupon.properties|DEFAULT_GROUP|null|null|1687661483810|169.254.91.20|dump|remove-ok|148|0

@@ -1,8 +1,14 @@
-2023-06-22 21:02:47,068 INFO [dump-all-ok] userservice-dev.yml+DEFAULT_GROUP, 1683968980471, length=362, md5=4235fd9a401f5b786b63f7ac9fcd1e51
+2023-06-25 10:51:07,322 INFO [dump-all-ok] userservice-dev.yml+DEFAULT_GROUP, 1683968980471, length=362, md5=4235fd9a401f5b786b63f7ac9fcd1e51
 
-2023-06-22 21:25:34,879 INFO [dump-all-ok] userservice-dev.yml+DEFAULT_GROUP, 1683968980471, length=362, md5=4235fd9a401f5b786b63f7ac9fcd1e51
+2023-06-25 10:51:07,323 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1687511657141, length=40, md5=aa065ceee8f5dcc14f9d9ee69668daec
 
-2023-06-22 21:33:25,415 INFO [dump-all-ok] userservice-dev.yml+DEFAULT_GROUP, 1683968980471, length=362, md5=4235fd9a401f5b786b63f7ac9fcd1e51
+2023-06-25 10:51:07,324 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1687577109118, length=41, md5=e387ef1064236df64450ac26de10ba7f
 
-2023-06-22 21:37:05,472 INFO [dump-all-ok] userservice-dev.yml+DEFAULT_GROUP, 1683968980471, length=362, md5=4235fd9a401f5b786b63f7ac9fcd1e51
+2023-06-25 10:51:07,324 INFO [dump-all-ok] datasource.yml+dev, 1687583235452, length=168, md5=c0673e818efa851730e0b0a1b604e52b
+
+2023-06-25 10:51:07,325 INFO [dump-all-ok] mybatis.yml+dev, 1687583293263, length=116, md5=3c8cba7df1687e1fbe635fdfa0352287
+
+2023-06-25 10:51:07,325 INFO [dump-all-ok] other.yml+dev, 1687591424832, length=290, md5=c905df7fee9126d16f4912eb17626725
+
+2023-06-25 10:51:23,878 INFO [dump-task] add task. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, taskKey=gulimall-coupon.properties+DEFAULT_GROUP++false+null
 

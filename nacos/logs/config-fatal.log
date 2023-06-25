@@ -1,10 +1,2 @@
-2023-06-22 21:02:46,972 WARN isQuickStart:false
-
-2023-06-22 21:12:47,338 ERROR [db-error] sql : delete from his_config_info where gmt_modified < ? OFFSET 0 ROWS FETCH NEXT ? ROWS ONLY, args : [2023-05-23 21:12:47.0, 1000], error : org.springframework.jdbc.BadSqlGrammarException: PreparedStatementCallback; bad SQL grammar [delete from his_config_info where gmt_modified < ? OFFSET 0 ROWS FETCH NEXT ? ROWS ONLY]; nested exception is java.sql.SQLSyntaxErrorException: Syntax error: Encountered "OFFSET" at line 1, column 52.
-
-2023-06-22 21:25:34,779 WARN isQuickStart:false
-
-2023-06-22 21:33:25,314 WARN isQuickStart:false
-
-2023-06-22 21:37:05,369 WARN isQuickStart:false
+2023-06-25 10:51:07,182 WARN isQuickStart:false
 
