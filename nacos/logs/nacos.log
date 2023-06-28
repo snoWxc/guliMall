@@ -1,80 +1,72 @@
-2023-06-25 10:51:00,730 INFO Starting Nacos v1.4.3 on LAPTOP-63A60HMP with PID 27140 (D:\Code\gulimall\nacos\target\nacos-server.jar started by snoW in D:\Code\gulimall)
+2023-06-28 10:46:30,955 INFO Starting Nacos v1.4.3 on LAPTOP-63A60HMP with PID 10324 (D:\Code\gulimall\nacos\target\nacos-server.jar started by snoW in D:\Code\gulimall)
 
-2023-06-25 10:51:00,732 INFO The following profiles are active: standalone
+2023-06-28 10:46:30,957 INFO The following profiles are active: standalone
 
-2023-06-25 10:51:02,934 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@49b2a47d' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-06-28 10:46:33,146 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6d5620ce' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
 
-2023-06-25 10:51:02,941 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-06-28 10:46:33,152 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
 
-2023-06-25 10:51:03,855 INFO Tomcat initialized with port(s): 8848 (http)
+2023-06-28 10:46:33,960 INFO Tomcat initialized with port(s): 8848 (http)
 
-2023-06-25 10:51:03,925 INFO Starting service [Tomcat]
+2023-06-28 10:46:34,007 INFO Starting service [Tomcat]
 
-2023-06-25 10:51:03,926 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+2023-06-28 10:46:34,007 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
 
-2023-06-25 10:51:03,946 INFO Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-06-28 10:46:34,024 INFO Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
 
-2023-06-25 10:51:03,946 INFO APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2023-06-28 10:46:34,024 INFO APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
 
-2023-06-25 10:51:03,946 INFO APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-06-28 10:46:34,024 INFO APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
 
-2023-06-25 10:51:03,970 INFO OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-06-28 10:46:34,082 INFO OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
 
-2023-06-25 10:51:04,417 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2023-06-28 10:46:34,478 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
 
-2023-06-25 10:51:04,470 INFO Initializing Spring embedded WebApplicationContext
+2023-06-28 10:46:34,529 INFO Initializing Spring embedded WebApplicationContext
 
-2023-06-25 10:51:04,471 INFO Root WebApplicationContext: initialization completed in 3674 ms
+2023-06-28 10:46:34,529 INFO Root WebApplicationContext: initialization completed in 3522 ms
 
-2023-06-25 10:51:05,141 INFO HikariPool-1 - Starting...
+2023-06-28 10:46:35,169 INFO HikariPool-1 - Starting...
 
-2023-06-25 10:51:05,145 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+2023-06-28 10:46:35,173 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
 
-2023-06-25 10:51:05,515 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+2023-06-28 10:46:35,967 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
 
-2023-06-25 10:51:05,519 INFO HikariPool-1 - Start completed.
+2023-06-28 10:46:35,974 INFO HikariPool-1 - Start completed.
 
-2023-06-25 10:51:06,333 INFO Nacos-related cluster resource initialization
+2023-06-28 10:46:37,085 INFO Nacos-related cluster resource initialization
 
-2023-06-25 10:51:06,347 INFO The cluster resource is initialized
+2023-06-28 10:46:37,104 INFO The cluster resource is initialized
 
-2023-06-25 10:51:06,775 INFO Reflections took 36 ms to scan 1 urls, producing 4 keys and 6 values 
+2023-06-28 10:46:37,676 INFO Reflections took 49 ms to scan 1 urls, producing 4 keys and 6 values 
 
-2023-06-25 10:51:06,801 INFO Reflections took 5 ms to scan 1 urls, producing 6 keys and 26 values 
+2023-06-28 10:46:37,713 INFO Reflections took 5 ms to scan 1 urls, producing 6 keys and 26 values 
 
-2023-06-25 10:51:06,816 INFO Reflections took 5 ms to scan 1 urls, producing 3 keys and 15 values 
+2023-06-28 10:46:37,731 INFO Reflections took 5 ms to scan 1 urls, producing 3 keys and 15 values 
 
-2023-06-25 10:51:06,824 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+2023-06-28 10:46:37,741 INFO Reflections took 3 ms to scan 1 urls, producing 2 keys and 12 values 
 
-2023-06-25 10:51:08,053 INFO Initializing ExecutorService 'applicationTaskExecutor'
+2023-06-28 10:46:38,668 INFO Initializing ExecutorService 'applicationTaskExecutor'
 
-2023-06-25 10:51:08,263 INFO Adding welcome page: class path resource [static/index.html]
+2023-06-28 10:46:38,806 INFO Adding welcome page: class path resource [static/index.html]
 
-2023-06-25 10:51:08,871 INFO Creating filter chain: Ant [pattern='/**'], []
+2023-06-28 10:46:39,196 INFO Creating filter chain: Ant [pattern='/**'], []
 
-2023-06-25 10:51:08,934 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@53e211ee, org.springframework.security.web.context.SecurityContextPersistenceFilter@64337702, org.springframework.security.web.header.HeaderWriterFilter@756cf158, org.springframework.security.web.csrf.CsrfFilter@7fd4acee, org.springframework.security.web.authentication.logout.LogoutFilter@6273c5a4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@30ea8c23, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@611df6e3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@41a90fa8, org.springframework.security.web.session.SessionManagementFilter@751d3241, org.springframework.security.web.access.ExceptionTranslationFilter@6175619b]
+2023-06-28 10:46:39,246 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2289aca5, org.springframework.security.web.context.SecurityContextPersistenceFilter@52500920, org.springframework.security.web.header.HeaderWriterFilter@5d465e4b, org.springframework.security.web.csrf.CsrfFilter@4e76dac, org.springframework.security.web.authentication.logout.LogoutFilter@4215838f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@18a3962d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4b85880b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@76a36b71, org.springframework.security.web.session.SessionManagementFilter@41a90fa8, org.springframework.security.web.access.ExceptionTranslationFilter@5f2f577]
 
-2023-06-25 10:51:09,059 INFO Initializing ExecutorService 'taskScheduler'
+2023-06-28 10:46:39,362 INFO Initializing ExecutorService 'taskScheduler'
 
-2023-06-25 10:51:09,087 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-06-28 10:46:39,388 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
 
-2023-06-25 10:51:09,227 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+2023-06-28 10:46:39,507 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
 
-2023-06-25 10:51:09,233 INFO Started Nacos in 10.148 seconds (JVM running for 10.915)
+2023-06-28 10:46:39,511 INFO Started Nacos in 10.316 seconds (JVM running for 11.011)
 
-2023-06-25 10:51:09,234 INFO Nacos started successfully in stand alone mode. use embedded storage
+2023-06-28 10:46:39,511 INFO Nacos started successfully in stand alone mode. use embedded storage
 
-2023-06-25 10:51:11,431 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-28 10:46:52,587 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
 
-2023-06-25 10:51:11,431 INFO Initializing Servlet 'dispatcherServlet'
+2023-06-28 10:46:52,588 INFO Initializing Servlet 'dispatcherServlet'
 
-2023-06-25 10:51:11,440 INFO Completed initialization in 9 ms
-
-2023-06-25 11:01:07,040 INFO [capacityManagement] start correct usage
-
-2023-06-25 11:01:07,056 INFO [capacityManagement] end correct usage, cost: 0s
-
-2023-06-25 11:01:07,591 WARN clearConfigHistory start
-
-2023-06-25 11:01:07,594 WARN clearConfigHistory, getBeforeStamp:2023-05-26 11:01:07.0, totalCount:2, pageSize:1000, removeTime:1
+2023-06-28 10:46:52,611 INFO Completed initialization in 21 ms
 

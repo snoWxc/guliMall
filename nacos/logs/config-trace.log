@@ -1,10 +1,2 @@
-2023-06-25 10:51:23,810|169.254.91.20|gulimall-coupon.properties|DEFAULT_GROUP|null|null|1687661483810|169.254.91.20|persist|remove|-1|null
-2023-06-25 10:51:23,892|169.254.91.20|gulimall-coupon.properties|DEFAULT_GROUP|null|null|1687661483810|169.254.91.20|notify|ok|80|169.254.91.20:8848
-2023-06-25 10:51:23,958|169.254.91.20|gulimall-coupon.properties|DEFAULT_GROUP|null|null|1687661483810|169.254.91.20|dump|remove-ok|148|0
-2023-06-25 10:54:48,493|169.254.91.20|gulimall-gateway.yml|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|null|1687661688482|169.254.91.20|persist|pub|-1|6540f8212907f14f96eddab2231e4aa8
-2023-06-25 10:54:48,499|169.254.91.20|gulimall-gateway.yml|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|null|1687661688482|169.254.91.20|notify|ok|17|169.254.91.20:8848
-2023-06-25 10:54:48,576|169.254.91.20|gulimall-gateway.yml|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|null|1687661688482|169.254.91.20|dump|ok|94|57
-2023-06-25 10:58:39,341|169.254.91.20|gulimall-gateway.properties|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-06-25 11:01:08,628|169.254.91.20|gulimall-gateway.properties|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-06-25 11:01:45,671|169.254.91.20|gulimall-gateway.properties|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-06-25 11:06:28,213|169.254.91.20|gulimall-gateway.properties|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-06-28 10:46:52,750|169.254.91.20|gulimall-gateway.properties|DEFAULT_GROUP|4eebb117-7623-4c55-895c-ee86e894cdd8|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-06-28 10:46:55,537|169.254.91.20|gulimall-product.properties|DEFAULT_GROUP|f8f10ff0-a234-4606-b8ac-e2d1ea9e65bf|unknown|-1|pull|not-found|-1|127.0.0.1
